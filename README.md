@@ -3,6 +3,8 @@
 **Computer Science student** at PUC Minas · Belo Horizonte, Brazil  
 Building things with C, C++, and JavaScript. Currently in my first year — focused on algorithms, data structures, and web development.
 
+### 🔗 [aboutmethz.netlify.app](https://aboutmethz.netlify.app/)
+
 ---
 
 ## 🛠️ Tech Stack
