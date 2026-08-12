@@ -26,7 +26,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔬 AEDS — Algorithms & Data Structures
 > Learning the foundations of Algorithms and Data Structures at PUC Minas.  
@@ -36,7 +36,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-### 💡 Smart City — Arduino IoT
+### Smart City — Arduino IoT
 > Street lighting system with automatic day/night detection and presence sensing.  
 > Built with LDR sensor + HC-SR04 ultrasonic sensor on Arduino Uno.
 
@@ -44,7 +44,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-### 🌐 SGP — Patient Management System *(in progress)*
+###  SGP — Patient Management System *(in progress)*
 > Web system for a public health clinic (UBS).  
 > Full-stack JavaScript project: HTML/CSS frontend + Node.js backend.
 
@@ -62,7 +62,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E1%B4%9B%CA%9C%C9%AA%E1%B4%80%C9%A2%E1%B4%8F-%E6%AC%A0-undefined-074200418/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thiago@email.com)
