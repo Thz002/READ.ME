@@ -7,7 +7,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -28,7 +28,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ## Featured Projects
 
-### 🔬 AEDS — Algorithms & Data Structures
+###  AEDS — Algorithms & Data Structures
 > Learning the foundations of Algorithms and Data Structures at PUC Minas.  
 > Right now, the focus is on mastering logic and solving practice problem sets in C/C++. As the course progresses, I plan to develop and upload my first hands-on projects here!
 
@@ -52,7 +52,7 @@ Building things with C, C++, and JavaScript. Currently in my first year — focu
 
 ---
 
-## 📚 Currently Studying
+## Currently Studying
 
 - **C++ OOP** — classes, constructors, inheritance, polymorphism
 - **Algorithms Analitys** — Complexity analysis, faster algorithms, efficiency
